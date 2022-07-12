@@ -1,1 +1,3 @@
 hier kommt die Konfiguration hinein
+
+a = 3
